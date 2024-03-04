@@ -1,0 +1,2 @@
+este archivo es una prueba de eliminar ramas remotas como locales
+y crear ramas directamente desde github
